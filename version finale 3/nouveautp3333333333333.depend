@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1579390379 source:c:\users\acer\pictures\zidane_boutaleb_tp2_g09\fonction.c
+	"fonction.h"
+	<stdio.h>
+	<windows.h>
+
+1577396590 c:\users\acer\pictures\zidane_boutaleb_tp2_g09\fonction.h
+	<stdio.h>
+
+1579432465 source:c:\users\acer\pictures\zidane_boutaleb_tp2_g09\main.c
+	"fonction.h"
+	<stdio.h>
+	<string.h>
+	"windows.h"
+
